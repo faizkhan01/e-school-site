@@ -1,0 +1,119 @@
+.container{
+    background-color:  #F0FFF0;
+}
+
+nav img{
+    height: 70px;
+}
+/*Header Part*/
+
+.nav-link {
+    font-weight: 500;
+    margin: 10px;
+    font-size: 18px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.carou{
+    margin-bottom: 70px;
+}
+
+.link-button {
+    
+    color: white;
+    margin-top: 10px;
+    border-radius: 33px;
+    padding: 10px 22px;
+    font-weight: 500;
+    background: #21B573;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+  }
+  .link-button:hover {
+    background: #11C675;
+    text-decoration: none;
+    color: black;
+  }
+/*Icon and Catagory*/
+  .icon-customize img{
+      width: 50px;
+      padding-bottom: 30px;
+  }
+  .icon-customize{
+      text-align: center;
+  }
+  .box-shaddow:hover{
+    background: #fcfcfc;
+    text-decoration: none;
+    color: black;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    cursor: pointer;
+  }
+  .middle{
+      background: none;
+      padding-top: 10px;
+  }
+  .txt{
+    text-align: center;
+    padding-bottom: 40px;
+    font-weight: bold;
+    padding-top: 40px;
+}
+/*Online Course Part*/
+.online-Course{
+    text-align: center;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 20px;
+    cursor: pointer
+}
+.card:hover {
+    background: #fbfffb;
+  }
+
+/*This is success stories Part*/
+
+.success-stories img{
+    width: 250px;
+    height: 196px;
+}
+
+/*This is Testimonial Part*/
+#testimonial{
+    text-align: center;
+}
+.Testimonial-man img{
+    width: 200px;
+}
+.wrap{
+    width: 550px;
+    margin-left: 60px;
+    text-align: justify ;
+}
+
+/*Footer Part*/
+.footer-area {
+    margin-top: 20px;
+    padding: 10px 30px;
+    height: 100%;
+    width: 100%;
+    background-color: #282531;
+    color: whitesmoke;
+
+}
+
+/*footer-style*/
+.footer-copyright{
+    margin-top: 50px;
+    text-align: center;
+}
+.footer-icon img{
+    width: 20px;
+}
